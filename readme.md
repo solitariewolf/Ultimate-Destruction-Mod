@@ -31,35 +31,41 @@ Este mod é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) p
 
 - Receita do Minério
 Caso o mundo já esteja gerado você pode craftar o minério seguindo a receita abaixo.
+
 ![Alt text](receitaore.PNG)
 
 =========================
 
 - Receita do Ultimate Ingot
 O ultimate ingot é um dos principais itens do mod para craftar as poderosas ferramentas.
+
 ![Alt text](ultimateingot.PNG)
 
 =========================
 
 - Receita do Poudretteite Ingot
 O Poudretteite Ingot é uma barra de minério que existe no mundo real e agora também no minecraft, também utilizado para craftar as ferramentas do mod.
+
 ![Alt text](poud.PNG)
 
 =========================
 
 - Receita do Diamante Vermelho
+  
 ![Alt text](reddiamond.PNG)
 
 =========================
 
 - Receita da Picareta Ultimate
 Uma picareta capaz de destruir blocos em 3x3 a uma velocidade e durabilidade incrível
+
 ![Alt text](pickaxe.PNG)
 
 =========================
 
 - Receita da Espada Ultimate
 Uma poderosa espada hit kill capaz de mantar rápidamente qualquer MOB.
+
 ![Alt text](sword.PNG)
 
 # Ultimate Destruction Mod (Beta 1.0) 🚀
@@ -95,33 +101,38 @@ This mod is distributed under the MIT license. See the [LICENSE](LICENSE) file f
 
 - Ore Recipe
 If your world is already generated, you can craft the ore using the recipe below.
-![Alt text](ore_recipe.PNG)
+
+![Alt text](receitaore.PNG)
 
 =========================
 
 - Ultimate Ingot Recipe
 The ultimate ingot is one of the main items in the mod for crafting powerful tools.
-![Alt text](ultimate_ingot.PNG)
+
+![Alt text](ultimateingot.PNG)
 
 =========================
 
 - Poudretteite Ingot Recipe
 The Poudretteite Ingot is an ore bar that exists in the real world and now in Minecraft, also used for crafting mod tools.
-![Alt text](poudretteite.PNG)
+
+![Alt text](poud.PNG)
 
 =========================
 
 - Red Diamond Recipe
-![Alt text](red_diamond.PNG)
+![Alt text](reddiamond.PNG)
 
 =========================
 
 - Ultimate Pickaxe Recipe
 A pickaxe capable of breaking blocks in a 3x3 pattern at incredible speed and durability.
+
 ![Alt text](pickaxe.PNG)
 
 =========================
 
 - Ultimate Sword Recipe
 A powerful one-hit kill sword capable of quickly dispatching any MOB.
+
 ![Alt text](sword.PNG)
