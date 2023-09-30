@@ -27,4 +27,12 @@ Este mod é distribuído sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) p
 
 ## Receitas 📜
 
+-Receita do Minério
+Caso o mundo já esteja gerado você pode craftar o minério seguindo a receita abaixo.
 ![Alt text](receitaore.PNG)
+
+=====================================================================================
+
+-Receita do Ultimate Ingot
+O ultimate ingot é um dos principais itens do mod para craftar as poderosas ferramentas.
+![Alt text](ultimateingot.PNG)
