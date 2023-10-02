@@ -1,4 +1,4 @@
-# Ultimate Destruction Mod (Beta 1.0) 🚀
+# Ultimate Destruction Mod (Beta 1.0.1) 🚀
 
 Bem-vindo ao repositório do Ultimate Destruction Mod para o Minecraft 1.12.2! Este mod traz várias funcionalidades emocionantes para o seu mundo de blocos favorito. 
 Observe que ainda está em desenvolvimento e o mod pode não funcionar da maneira correta.
